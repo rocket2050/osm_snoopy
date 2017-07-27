@@ -1,4 +1,4 @@
 ---
- - hosts: centos6
+ - hosts: "{{ host }}"
    roles:
      - snoopy
