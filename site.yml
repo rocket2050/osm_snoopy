@@ -1,4 +1,4 @@
 ---
  - hosts: "{{ host }}"
    roles:
-     - snoopy
+     - osm_snoopy
