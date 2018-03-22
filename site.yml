@@ -1,5 +1,5 @@
 ---
- - hosts: "{{ host1 }}"
+ - hosts: "{{ host }}"
    become: true
    roles:
      - osm_snoopy
